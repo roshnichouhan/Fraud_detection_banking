@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+plotly
+xgboost
+nltk
+python-dotenv
+python-multipart
+requests
+pytest
+imbalanced-learn

@@ -1,0 +1,12 @@
+project:
+  name: Banking Fraud Detection
+
+dataset:
+  path: data/raw/bank_transactions.csv
+
+model:
+  random_state: 42
+  test_size: 0.2
+
+dashboard:
+  title: Banking Fraud Detection Dashboard

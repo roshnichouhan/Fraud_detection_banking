@@ -1,0 +1,11 @@
+transaction_id,customer_id,transaction_amount,merchant,merchant_category,payment_method,device_type,location,transaction_time,transaction_description,is_international,previous_fraud_count,account_age_days,transaction_frequency_30d,label
+1001,C001,120.5,Amazon,Shopping,Credit Card,Mobile,Delhi,2026-01-10 10:15,Amazon purchase electronics,0,0,540,12,0
+1002,C002,9500.0,CryptoX,Crypto,Bank Transfer,Laptop,Mumbai,2026-01-10 11:30,Crypto wallet transfer,1,1,120,2,1
+1003,C003,45.99,Starbucks,Food,UPI,Mobile,Bengaluru,2026-01-10 08:10,Coffee payment,0,0,980,30,0
+1004,C004,2200.0,Apple Store,Electronics,Debit Card,Laptop,Hyderabad,2026-01-11 13:45,Apple accessories,0,0,730,8,0
+1005,C005,15000.0,Unknown,Gift Card,Credit Card,Desktop,Kolkata,2026-01-11 22:10,Gift card bulk purchase,1,2,60,1,1
+1006,C006,320.0,Netflix,Subscription,Credit Card,Mobile,Pune,2026-01-12 09:05,Monthly Netflix subscription,0,0,420,15,0
+1007,C007,7800.0,Binance,Crypto,Bank Transfer,Mobile,Delhi,2026-01-12 23:00,USDT transfer,1,3,40,1,1
+1008,C008,89.0,BigBasket,Grocery,UPI,Mobile,Chennai,2026-01-13 18:20,Groceries purchase,0,0,860,22,0
+1009,C009,670.0,Uber,Transport,Wallet,Mobile,Noida,2026-01-13 20:05,Uber ride,0,0,365,18,0
+1010,C010,18000.0,Unknown,Wire,Bank Transfer,Desktop,Jaipur,2026-01-14 02:30,International wire transfer,1,4,25,1,1
